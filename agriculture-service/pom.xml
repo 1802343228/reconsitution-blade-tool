@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>agriculture</artifactId>
+        <groupId>cn.net.jsnjy</groupId>
+        <version>1.0.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>agriculture-service</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+    <description>农技耘service依赖模块</description>
+
+    <modules>
+        <module>agriculture-demo</module>
+        <module>agriculture-desk</module>
+        <module>agriculture-system</module>
+        <module>agriculture-user</module>
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>${mysql.connector.version}</version>
+        </dependency>
+    </dependencies>
+
+</project>

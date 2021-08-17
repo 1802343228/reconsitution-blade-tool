@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: agriculture-gateway
+
+  profiles:
+    active: @spring.profiles.active@
+
+  cloud:
+    nacos:
+      discovery:
+        server-addr: @nacos.server-addr@
+        namespace: @nacos.namespace@
+
+      config:
+        server-addr: @nacos.server-addr@
+        file-extension: yml
+        name: ${spring.application.name}
+        namespace: @nacos.namespace@
