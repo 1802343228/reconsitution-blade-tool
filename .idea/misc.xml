@@ -8,11 +8,16 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../nongjiun-agriculture/agriculture/agriculture-tools/pom.xml" />
+        <option value="$PROJECT_DIR$/agriculture-tools/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/agriculture-tool/agriculture-core-swagger/pom.xml" />
         <option value="$PROJECT_DIR$/agriculture-tool/pom.xml" />
+        <option value="$PROJECT_DIR$/../nongjiun-agriculture/agriculture/agriculture-tools/agriculture-cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/../nongjiun-agriculture/agriculture/agriculture-tools/agriculture-common/pom.xml" />
       </set>
     </option>
   </component>

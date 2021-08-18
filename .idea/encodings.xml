@@ -15,24 +15,8 @@
     <file url="file://$PROJECT_DIR$/agriculture-service/agriculture-system/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/agriculture-service/agriculture-user/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/agriculture-service/agriculture-user/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-boot/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-boot/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-cloud/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-develop/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-develop/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-launch/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-log/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-mybatis/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-oss/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-report/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-secure/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-social/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-swagger/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-swagger/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-test/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-tool/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-transaction/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/blade-tool/blade-core-transaction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agriculture-tools/agriculture-core-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agriculture-tools/agriculture-core-swagger/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

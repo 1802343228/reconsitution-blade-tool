@@ -16,7 +16,6 @@
         <module>agriculture-gateway</module>
         <module>agriculture-service</module>
         <module>agriculture-ops</module>
-        <module>blade-tool</module>
     </modules>
 
     <properties>

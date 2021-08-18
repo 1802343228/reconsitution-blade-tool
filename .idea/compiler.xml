@@ -2,37 +2,40 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="blade-core-launch" />
-        <module name="blade-core-log" />
         <module name="agriculture-desk" />
-        <module name="blade-core-develop" />
-        <module name="blade-core-mybatis" />
         <module name="agriculture-demo" />
         <module name="agriculture-system" />
-        <module name="blade-core-report" />
-        <module name="blade-core-test" />
         <module name="agriculture-desk-api" />
-        <module name="blade-core-boot" />
         <module name="agriculture-gateway" />
-        <module name="blade-core-tool" />
         <module name="agriculture-admin" />
         <module name="agriculture-user" />
-        <module name="blade-core-social" />
-        <module name="blade-core-transaction" />
-        <module name="blade-core-cloud" />
-        <module name="blade-core-oss" />
-        <module name="blade-core-swagger" />
-        <module name="blade-core-secure" />
+        <module name="agriculture-core-swagger" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="agriculture-cloud" target="1.8" />
       <module name="agriculture-common" target="1.8" />
       <module name="agriculture-tool" target="1.8" />
+      <module name="blade-core-boot" target="1.8" />
+      <module name="blade-core-cloud" target="1.8" />
+      <module name="blade-core-develop" target="1.8" />
+      <module name="blade-core-launch" target="1.8" />
+      <module name="blade-core-log" target="1.8" />
+      <module name="blade-core-mybatis" target="1.8" />
+      <module name="blade-core-oss" target="1.8" />
+      <module name="blade-core-report" target="1.8" />
+      <module name="blade-core-secure" target="1.8" />
+      <module name="blade-core-social" target="1.8" />
+      <module name="blade-core-swagger" target="1.8" />
+      <module name="blade-core-test" target="1.8" />
+      <module name="blade-core-tool" target="1.8" />
+      <module name="blade-core-transaction" target="1.8" />
+      <module name="blade-tool" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -40,6 +43,7 @@
       <module name="agriculture-admin" options="-parameters" />
       <module name="agriculture-cloud" options="" />
       <module name="agriculture-common" options="-parameters" />
+      <module name="agriculture-core-swagger" options="-parameters" />
       <module name="agriculture-demo" options="-parameters" />
       <module name="agriculture-desk" options="-parameters" />
       <module name="agriculture-desk-api" options="-parameters" />
